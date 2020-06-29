@@ -1,4 +1,4 @@
-# Coleccion de trabajos en ensamblador 8086
+# Coleccion de ejercicios en ensamblador 8086
 
 Esta es una pequeña coleccion de ejercicios en lenguaje ensamblador creados para la clase de lenguajes de interfaz durante la carrera de Ingenieria en Sistemas Computacionales.
 
